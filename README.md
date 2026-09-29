@@ -31,10 +31,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGRodrigues&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenriqueGRodrigues&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGRodrigues&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueGRodrigues&theme=tokyonight" alt="Sequência de Commits" />
 </p>
 
 ### 🐍 Contribution Snake
